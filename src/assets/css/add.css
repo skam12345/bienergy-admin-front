@@ -1,0 +1,110 @@
+.chart_bottom {margin:50px 70px; padding: 20px; box-sizing: border-box; border: 1px solid #dfdfdf; border-radius: 15px; background: #fff; text-align: center;}
+.MR05 {margin-right: 5px !important;}
+.MR08 {margin-right: 8px !important;}
+.MR10 {margin-right: 10px !important;}
+.MR20 {margin-right: 20px !important;}
+.MR30 {margin-right: 30px !important;}
+.MR40 {margin-right: 40px !important;}
+
+
+.ML10 {margin-left: 10px !important;}
+.ML20 {margin-left: 20px !important;}
+.ML30 {margin-left: 30px !important;}
+.ML40 {margin-left: 40px !important;}
+.ML120 {margin-left: 120px !important;}
+.ML160 {margin-left: 160px !important;}
+
+.MT04 { margin-top: 4px !important;}
+.MT05 { margin-top: 5px !important;}
+.MT06 { margin-top: 6px !important;}
+.MT08 { margin-top: 8px !important;}
+.MT09 { margin-top: 9px !important;}
+.MT20 { margin-top: 20px !important;}
+.MT30 { margin-top: 30px !important;}
+.MT40 { margin-top: 40px !important;}
+.MT-04 { margin-top: -4px !important;}
+.MT-25 { margin-top: -25px !important;}
+.MT-37 { margin-top: -37px !important;}
+
+.MB20 { margin-bottom: 20px !important;}
+.MB35 { margin-bottom: 35px !important;}
+.MB40 { margin-bottom: 40px !important;}
+.MB50 { margin-bottom: 50px !important;}
+
+.PDT20 { padding-top: 20px !important;}
+.PDB20 { padding-bottom: 20px !important;}
+
+.WD120 {width:120px !important;}
+.WD130 {width:130px !important;}
+.WD140 {width:140px !important;}
+.WD150 {width:150px !important;}
+.WD180 {width:180px !important;}
+.WD250 {width:250px !important;}
+.WD400 {width:400px !important;}
+
+.WD100-20 {width:calc(100% - 20px);}
+
+.WD600 {width:600px !important;}
+
+
+.fs14 {font-size: 14px;}
+
+
+
+.btnRight {float:right; margin-top: 0px;}
+.thht {height:45px !important;}
+.f-lightgrey {color:#b3b3b3;}
+.f-purple {color:#9431da;}
+.f-yellow {color:#eca111;}
+.f-red {color:#c30d23;}
+.fB {font-weight:bold;}
+.flexno { display: inline;}
+
+.DispBl { display:block !important; text-align: center !important;}
+
+.ta_center {text-align: center;}
+.ta_left   {text-align: left;}
+.ta_right  {text-align: right;}
+.ta_justify{text-align: justify;}
+
+.fl_left  {float:left;}
+.fl_right {float:right;}
+
+.col02 { width:100%; box-sizing: border-box; margin-bottom: 100px;}
+
+
+.col02 li { width:180px; display: inline-block; float:left; height: 51px; line-height: 48px; padding-left: 20px;  box-sizing: border-box; border-bottom:1px solid #edeff3; }
+.col02 li:nth-child(2n) { width:calc(100% - 180px); margin-left:180px; margin-top: -51px; padding-left: 20px; box-sizing: border-box; display: inline-block;}
+
+.col02 li:last-child() { border-bottom:none;}
+
+
+.tableTypeB {width:100%;}
+.tableTypeB .tLeft {width:150px;border-right:1px solid #ddd; border-bottom:1px solid #ddd; padding: 3px 10px 0 20px; height: 51px; }
+.tableTypeB .tRight {border-right:none ; border-bottom:1px solid #ddd; padding:0px 0px 4px 10px; min-height: 51px; }
+
+
+.checksRadio {position: relative; height: 45px; display: inline-block;margin-bottom:50px; } 
+.checksRadio input[type="radio"] { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip:rect(0,0,0,0); border: 0; } .checksRadio input[type="radio"] + label { display: block; position: relative; padding-left: 30px; cursor: pointer; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; } 
+.checksRadio input[type="radio"] + label:before { content: ''; position: absolute; left: 0; top:-2px; width: 21px; height: 21px; text-align: center; background: #fff; border: 1px solid #cacece; border-radius: 100%; box-shadow: 0px 1px 2px rgba(0,0,0,0), inset 0px -15px 10px -12px rgba(0,0,0,0); } 
+.checksRadio input[type="radio"] + label:active:before, 
+.checksRadio input[type="radio"]:checked + label:active:before { box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px 1px 3px rgba(0,0,0,0.1); } 
+.checksRadio input[type="radio"]:checked + label:before { background: #fff; border-color: #878e99; } 
+.checksRadio input[type="radio"]:checked + label:after { content: ''; position: absolute; top: 3px; left: 5px; width: 13px; height: 13px; background: #c30d23; border-radius: 100%; box-shadow: inset 0px 0px 10px rgba(0,0,0,0.3); }
+
+.checksRadio label {top:14px; width:150px;  height: 45px;}
+
+.checksRadio .Add-btn {display: block;position: absolute;margin-left: 160px;margin-top: -39px;}
+.checksRadio .Add-btn .number {margin-top: -31px; position: absolute; width:180px; margin-left: 160px;}
+
+.TextBox {width:calc(100% - 20px); min-height: 200px; margin: 10px 0;}
+
+.ininput {height: 30px; width:calc(100% - 20px); margin: 0 auto;}
+
+
+.btn-small { display: inline-block; height: 30px !important; line-height: 30px !important;  padding:0 5px; min-width: 60px; border-radius:6px; margin-top: 0 !important; }
+
+.btn-intable {position: absolute; margin-top: 4px; margin-left: 5px;}
+.stip {font-size:13px !important; color:#999 !important; position: relative !important; padding-left: 10px;  }ㅇ
+.dispB { display: block !important;}
+.poAb {  position: absolute;}
